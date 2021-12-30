@@ -1,0 +1,39 @@
+.login-button{
+    display: block;
+    background-color: #3E8E7E;
+    width: 100%;
+}
+
+.register{
+    display: inline;
+    width: 100%;
+    color: #121212;
+    text-align:  left;
+    font-weight: 300;
+}
+
+.register:hover{
+    color: #3E8E7E;
+}
+
+.span-reg{
+    display: inline;
+    width: 100%;
+}
+
+.nav{
+    background-color: #3E8E7E;
+    border-bottom: 3px solid #0B4619;
+}
+
+.task-btn-ok{
+    background-color: #3E8E7E;
+}
+
+.task-btn-cancel{
+    background-color: #9B0000;
+}
+
+.task-btn-ok:hover, .task-btn-cancel:hover{
+    opacity: 0.5;
+}
